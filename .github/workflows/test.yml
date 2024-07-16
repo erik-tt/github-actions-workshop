@@ -1,4 +1,4 @@
-# The "display name", shown in the GitHub UI
+# The "display name", shown in the GitHub UI 
 name: Build and test
 
 # Trigger, run on push on any branch
