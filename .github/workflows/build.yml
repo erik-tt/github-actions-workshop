@@ -1,5 +1,8 @@
 on:
-    push
+    push:
+      branches:
+        - main
+        - 'releases/**'  # Wildcard can be used to limit to a specific set of branches
 
 
 permissions:
